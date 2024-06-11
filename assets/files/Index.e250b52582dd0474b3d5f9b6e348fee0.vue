@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div
-      class="w-full text-2xl leading-normal text-dark md:text-3xl lg:w-4/5 lg:text-4xl lg:leading-snug"
+      class="w-full text-2xl leading-normal text-dark md:text-3xl lg:text-4xl lg:leading-snug"
       v-html="headline"
     ></div>
     <projects :projects="$page.project.edges" />

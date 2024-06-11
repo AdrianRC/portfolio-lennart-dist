@@ -12,7 +12,7 @@
     <div class="md:mt-12 md:flex lg:mt-16">
       <div class="md:flex-1">
         <h2
-          class="mt-8 text-xl font-semibold leading-normal sm:font-normal md:text-2xl"
+          class="mt-8 text-xl leading-normal sm:font-normal md:text-2xl"
         >
           {{ content.address_headline }}
         </h2>
@@ -61,7 +61,7 @@
       </div>
       <div class="md:flex-1">
         <h2
-          class="mt-8 text-xl font-semibold leading-normal sm:font-normal md:text-2xl"
+          class="mt-8 text-xl leading-normal sm:font-normal md:text-2xl"
         >
           {{ content.social_headline }}
         </h2>

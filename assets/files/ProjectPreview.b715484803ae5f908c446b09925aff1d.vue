@@ -5,7 +5,7 @@
         <g-image :alt="header.title" :src="image" class="w-full" />
         <div class="w-full pt-4 md:pt-6 md:flex lg:block lg:w-3/4">
           <h2
-            class="w-full text-xl font-semibold leading-normal md:text-2xl md:font-normal text-dark md:w-1/2 lg:w-full"
+            class="w-full text-xl leading-normal md:text-2xl md:font-normal text-dark md:w-1/2 lg:w-full"
           >
             {{ header.title }}
           </h2>

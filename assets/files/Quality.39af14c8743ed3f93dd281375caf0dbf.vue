@@ -1,6 +1,6 @@
 <template>
   <div v-editable="quality">
-    <h3 class="text-xl font-semibold sm:font-normal leading-normal md:text-2xl text-dark">
+    <h3 class="text-xl sm:font-normal leading-normal md:text-2xl text-dark">
       {{ quality.title }}
     </h3>
     <div

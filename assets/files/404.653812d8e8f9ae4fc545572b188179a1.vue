@@ -11,7 +11,7 @@
         </div>
         <g-link
           to="/"
-          class="inline-block px-6 py-2 mx-auto mt-8 text-xl font-semibold leading-normal transition duration-150 bg-white border-2 border-dark text-dark rounded-xl hover:bg-black hover:text-white"
+          class="inline-block px-6 py-2 mx-auto mt-8 text-xl leading-normal transition duration-150 bg-white border-2 border-dark text-dark rounded-xl hover:bg-black hover:text-white"
         >
           <span>Homepage</span>
           <svg

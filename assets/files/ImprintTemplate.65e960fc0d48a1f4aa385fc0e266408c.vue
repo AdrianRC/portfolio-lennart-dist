@@ -46,7 +46,7 @@ export default {
               let append = "";
               if (content.type === "heading") {
                 prepend =
-                  '<h2 class="text-2xl font-semibold leading-normal text-dark">';
+                  '<h2 class="text-2xl leading-normal text-dark">';
                 append = "</h2>";
               }
               if (content.type === "paragraph") {

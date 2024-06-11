@@ -38,7 +38,7 @@
     >
       <h3
         v-if="blok.headline"
-        class="mt-4 text-xl font-semibold leading-normal md:text-2xl text-dark"
+        class="mt-4 text-xl leading-normal md:text-2xl text-dark"
       >
         {{ blok.headline }}
       </h3>
